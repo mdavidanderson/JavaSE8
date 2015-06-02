@@ -1,0 +1,11 @@
+import javax.swing.JFrame;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
+
+public class TextFieldFrame extends JFrame {
+	private final JTextField textField1;
+	private final JTextField textField2;
+	private final JTextField textField3;
+	private final JPasswordField passwordField;
+	
+}

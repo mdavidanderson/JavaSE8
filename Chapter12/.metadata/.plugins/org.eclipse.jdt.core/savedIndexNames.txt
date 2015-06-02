@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/home/mdavidanderson/CS Development/JavaDevelopment/JavaSE8Workspace/Chapter12/.metadata/.plugins/org.eclipse.jdt.core
+1885148178.index
+3941210015.index
+2658035734.index
+311551149.index
+19114734.index
+94369981.index
