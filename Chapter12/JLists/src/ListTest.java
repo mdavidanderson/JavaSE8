@@ -5,7 +5,7 @@ public class ListTest {
 		ListFrame listFrame = new ListFrame();
 		listFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		listFrame.setSize(350,150);
+		listFrame.setSize(350,1200);
 		listFrame.setVisible(true);
 	}
 }
